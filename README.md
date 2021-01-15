@@ -1,0 +1,1 @@
+# MINION_BOOT_BIN
